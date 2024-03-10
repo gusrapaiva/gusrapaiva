@@ -2,8 +2,6 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
 **About me**
 
 - 💼 Looking for my first job
