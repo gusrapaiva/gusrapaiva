@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! Prazer, Gustavo.</h1>
+<h1 align="center">Hello, world! I'm Gustavo.</h1>
 
 <br />
 
