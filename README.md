@@ -9,6 +9,13 @@
 <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/laravel/laravel.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>    
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gusrapaiva/gusrapaiva/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 | <a href="https://github.com/gusrapaiva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gusrapaiva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gusrapaiva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusrapaiva&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
