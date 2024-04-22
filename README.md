@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **Python and Laravel**
 
- 👾 I'm currebntly working for M-team developing Mind-Pass
+ 👾 I'm currently working for M-team, developing Mind-Pass
  
  💼 I’m currently looking for a job
 
