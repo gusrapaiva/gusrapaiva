@@ -8,11 +8,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Python and Laravel**
-
- 👾 I'm currently working for M-team, developing Mind-Pass
+ 🌱 I’m currently learning **Java & PL/SQL**
  
- 💼 I’m currently looking for a job
+ 💼 I’m looking for a job as a Dev
 
  </div>
  
